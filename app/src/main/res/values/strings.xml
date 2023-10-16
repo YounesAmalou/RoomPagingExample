@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RoomPaging</string>
+    <string name="title_home">Home</string>
+    <string name="Add_Task_Button">ADD</string>
+    <string name="add_task_input_hint">Task Name…</string>
+    <string name="task_menu_options_delete_all">Delete All Tasks</string>
+    <string name="search_task">Search Task…</string>
+    <string name="all_tasks">All Tasks</string>
+</resources>
